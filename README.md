@@ -17,8 +17,8 @@ My project includes the following files:
 * README.md summarizing the results
 * model.py containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
-* model.h5([S3 Link]()) containing a trained convolution neural network ()
-* run.mp4([S3 Link]()) for my latest test drive, but take a look at one of my trial runs on [YouTube](https://www.youtube.com/watch?v=doxtGNTfLtk) for higher resolution
+* model.h5([S3 Link](https://s3-us-west-2.amazonaws.com/joehan-udacity/model.h5)) containing a trained convolution neural network ()
+* run.mp4([S3 Link](https://s3-us-west-2.amazonaws.com/joehan-udacity/run.mp4)) for my latest test drive, but take a look at one of my trial runs on [YouTube](https://www.youtube.com/watch?v=doxtGNTfLtk) for higher resolution
 
 
 #### 2. Submission includes functional code
