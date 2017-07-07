@@ -26,7 +26,7 @@ Using the Udacity provided simulator and my drive.py file, the car can be driven
 ```sh
 python drive.py model.h5
 ```
-The drive.py code was not modified except the speed, which was set at 20 mph. 
+The drive.py code was not modified except the speed, which was set at 30 mph. 
 
 #### 3. Submission code is usable and readable
 
